@@ -46,7 +46,7 @@
 
   ## Links
   Github Repo - https://github.com/vegascruz/MSU-Text-Editor
-  Heroku Link - 
+  Heroku Link - https://msu-text-editor.herokuapp.com/
   
   ## Contributors
   Vegas Cruz
